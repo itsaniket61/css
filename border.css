@@ -1,0 +1,20 @@
+/*
+    Border ==> Properties
+    - type** --> Solid
+    - width --> 3px
+    - color --> #000000
+*/
+
+.square{
+    font-family: Arial;
+    border: solid;
+    width: 500px;
+}
+
+.circle{
+    border: solid;
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    border-radius: 50%;
+}

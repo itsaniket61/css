@@ -1,0 +1,20 @@
+/*
+Selectors =>
+There are two of selctors in css :
+1. Class (.) -->> Can be used multiple times. Example ==> .class_name
+2. Id (#) -->> Used only once. Example ==> #id_name
+
+Note: Tag can also be used as a selector. Example ==> tag_name
+
+Syntax=>
+selector{
+    property1:value;
+    property2:value;
+}
+*/
+
+#violetblueheading{
+    color: blueviolet;
+    font-size: 100px;
+    text-align: left;
+}
